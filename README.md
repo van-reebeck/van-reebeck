@@ -12,13 +12,3 @@
   </a>&nbsp;&nbsp;
 
   <a
-
- <a href="mailto:tshephangmasiah@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject2%here">
-
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  </a>&nbsp;&nbsp;
-
-  <a
-
-
