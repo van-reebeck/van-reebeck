@@ -25,4 +25,4 @@
 
 ##
 
-  ![Metrics](https://metrics.lecoq.io/van-reebeck?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+  
