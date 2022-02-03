@@ -20,3 +20,7 @@
 
   <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=van-reebeck&show_icons=true&theme=nightowl" alt="van-reebeck" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-reebeck&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="van-reebeck"/></p></a><br> 
+
+##
