@@ -24,3 +24,5 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-reebeck&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="van-reebeck"/></p></a><br> 
 
 ##
+
+  ![Metrics](https://metrics.lecoq.io/van-reebeck?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
